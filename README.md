@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KamikaziD
 - 👀 I’m interested in ... FullStack Dev
-- 🌱 I’m currently learning ... React-Native
-- 💞️ I’m looking to collaborate on ... Mobile Apps with React-Native
+- 🌱 I’m currently learning ... Django & Python
+- 💞️ I’m looking to collaborate on ... Django backend api
 - 📫 How to reach me ... discord: Detmar#5399
 
 <!---
